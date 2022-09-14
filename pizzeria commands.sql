@@ -10,7 +10,7 @@ SELECT * FROM orders;
 
  -- creating joins
  
- -- this first jon shows the product, price and the current quantity in stock 
+ -- this first join shows the product, price and the current quantity in stock 
  
 SELECT
 p.product_name AS "Product" , p.product_price AS "Price",
