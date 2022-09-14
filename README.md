@@ -1,2 +1,5 @@
 # pizzeria
-A pizzeria database I created and presented as my final mini project for the Introduction to Data and SQL course from Code First Girls. 
+
+A SQL database of a pizzeria primarily managing customers and orders.
+
+I created and presented this for the Introduction to Data and SQL course from Code First Girls as my final project. 
